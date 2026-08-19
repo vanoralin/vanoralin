@@ -18,6 +18,9 @@ UX/UI design, development, deployment, I enjoy every parts of the process. Curre
 
 If you’re working on something interesting, I’d love to build something together! 🚀
 
+## 🎨 My Works
+Karaoke to thai translate web app: https://karaoke-to-thai-translator.vercel.app/
+
 
 
 
